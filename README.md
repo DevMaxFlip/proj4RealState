@@ -1,2 +1,2 @@
 # proj4RealState
-is Solidity contract, RealStateCorporate, acts as a central hub for managing real estate transactions involving multiple oracles (oracleRealstate contracts). It leverages functionalities from imported files.
+Este código Solidity implementa o contrato RealStateCorporate que gerencia transações imobiliárias envolvendo vários contratos oracle (oracleRealstate). O código utiliza a versão Solidity ^0.8.20.
